@@ -5,7 +5,7 @@
 - write table creation SQL according to your E-R model
 - put the SQL into `schema.sql` then start the project to verify your database design
 
-We are building a employee management application, `system administrator` can manage all company and set up this application, and `company administrator` can manage all employees.
+We are building a employee management application, `system administrator` can manage all company and set up this application,  `company administrator` can manage all employees.
 
 Company administrator should be the employee first and only be the member of one company.
 
