@@ -17,7 +17,7 @@ AC2: system administrator can set application's `banner` and `greeting message`
  
 AC3: system administrator can create a `company`
 
-AC4: system administrator can create a `system administrator` for the company
+AC4: system administrator can create a `company administrator` for the company
 
 ### Story 2
 
